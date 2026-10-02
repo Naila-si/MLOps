@@ -1,0 +1,9 @@
+ticket_id,text,channel,urgent
+T001,"Pembayaran gagal dan layanan berhenti",email,1
+T002,"Bagaimana cara mengganti foto profil?",web,0
+T003,"Akun saya dibajak, mohon bantu sekarang",chat,1
+T004,"Saya ingin mengetahui jam operasional",web,0
+T005,"Transaksi tertagih dua kali dan dana belum kembali",email,1
+T006,"Tolong jelaskan fitur laporan bulanan",chat,0
+T007,"Tidak bisa login sejak pagi untuk pekerjaan penting",web,1
+T008,"Bagaimana cara mengubah bahasa aplikasi?",chat,0
