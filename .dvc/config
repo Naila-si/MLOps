@@ -1,0 +1,4 @@
+[core]
+    remote = colab_drive
+['remote "colab_drive"']
+    url = /content/drive/MyDrive/dvc-remote-umkm
