@@ -1,0 +1,6 @@
+outs:
+- md5: cb094f7778d1ce3f08fdd542bfb3008c.dir
+  size: 487
+  nfiles: 2
+  hash: md5
+  path: umkm_finance
